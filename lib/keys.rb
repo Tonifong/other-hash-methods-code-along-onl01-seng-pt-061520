@@ -8,7 +8,6 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
  
 groceries.keys
 get_the_keys(groceries)
