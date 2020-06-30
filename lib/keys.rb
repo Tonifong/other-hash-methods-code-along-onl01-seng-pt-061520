@@ -7,6 +7,10 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
+
+groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
+ 
+groceries.keys
 get_the_keys(groceries)
 groceries.keys
 end
