@@ -8,13 +8,7 @@ require 'pry'
 #   grains: ["rice", "pasta"]
 # }
 
-letters = {a: 1, b: 2}
- 
-letters.min
-#  => [:a, 1]
- 
-alphabetical_order = {c: 100, d: 1}
-alphabetical_order.min
+
 
 def get _the_values(groceries)
   groceries.values.flatten
