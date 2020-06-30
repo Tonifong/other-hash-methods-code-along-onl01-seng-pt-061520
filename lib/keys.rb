@@ -9,6 +9,6 @@ require 'pry'
 # }
 get_the_keys(groceries)
 groceries.keys
-groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
- 
+end
+
 groceries.values
